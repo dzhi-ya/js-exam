@@ -38,7 +38,7 @@
       "producer": "Италия",
       "category": 1,
       "weight": 2000,
-      "quantity": 5,
+      "quantity": "5",
       "id": 4
     },
     {
